@@ -4,9 +4,13 @@
         "start": "parcel serve src/index.html",
         "build": "cross-env NODE_ENV=production parcel build src/index.html --public-url ."
     },
+    "dependencies": {
+        "three": "^0.134.0"
+    },
     "devDependencies": {
         "cross-env": "^7.0.3",
         "parcel": "^2.0.1",
-        "typescript": "^4.4.4"
+        "typescript": "^4.4.4",
+        "@typed/three": "^0.134.0"
     }
 }
