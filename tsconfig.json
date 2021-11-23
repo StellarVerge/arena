@@ -2,7 +2,7 @@
     "compilerOptions": {
         "target": "es2021",
         "strict": true,
-        "module": "es2022",
+        "module": "es2020",
     },
     "include": [
         "src/**/*"
