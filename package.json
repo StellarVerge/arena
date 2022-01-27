@@ -7,7 +7,7 @@
         "build": "cross-env NODE_ENV=production parcel build src/index.html --public-url ."
     },
     "dependencies": {
-        "three": "^0.134.0"
+        "three": "^0.137.0"
     },
     "devDependencies": {
         "@types/three": "^0.134.0",
